@@ -1,0 +1,256 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1561.2">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Courier; color: #000000; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+    span.s2 {font: 12.0px 'PingFang SC'; font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>"resCode": "00000",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>"resMsg": "",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>"data": {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>"sources": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"sourceName": "</span><span class="s2">央视频道</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"playSets": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">世界杯直播</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "https://hlsworldcupwb.miguvideo.com/live/mgsp_weibo/playlist.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "CCTV 1",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://223.110.243.138/PLTV/2510088/224/3221227177/1.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "CCTV 2",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://223.110.243.136/PLTV/2510088/224/3221227199/1.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "CCTV 3",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://223.110.243.140/PLTV/2510088/224/3221227165/1.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "CCTV 4",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://223.110.243.138/PLTV/2510088/224/3221227162/1.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "CCTV 5",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://223.110.243.140/PLTV/2510088/224/3221227202/1.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "CCTV 6",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://223.110.243.140/PLTV/2510088/224/3221227145/1.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "CCTV 7",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://223.110.243.136/PLTV/2510088/224/3221227142/1.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "CCTV 8",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "CCTV 9",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://223.110.243.140/PLTV/2510088/224/3221227156/1.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "CCTV 10",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://223.110.243.140/PLTV/2510088/224/3221227161/1.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "CCTV 11",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://183.251.61.204//PLTV/88888888/224/3221225815/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "CCTV 12",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://223.110.243.140/PLTV/2510088/224/3221227171/1.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "CCTV 13",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://223.110.243.140/PLTV/2510088/224/3221227168/1.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "CCTV 14",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://223.110.243.140/PLTV/2510088/224/3221227247/1.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "CCTV 15",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://183.207.249.7/PLTV/3/224/3221225568/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>]</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"sourceName": "</span><span class="s2">卫视频道</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"playSets": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">浙江卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225598/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">湖南卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225582/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">东方卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225599/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">河南卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225636/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">安徽卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://223.110.243.140/PLTV/3/224/3221225634/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">北京卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225662/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">重庆卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://223.110.243.146/PLTV/3/224/3221225594/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">东南卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225666/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">广东卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225670/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">甘肃卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225626/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">广西卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225637/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">贵州卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225665/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">河北卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225632/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">黑龙江卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225671/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">湖北卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225669/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">吉林卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://218.207.213.133/PLTV/88888888/224/3221225851/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">江苏卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225663/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">江西卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://218.207.213.137//PLTV/88888888/224/3221225868/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">陕西卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://223.110.243.152/PLTV/3/224/3221225626/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">四川卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225667/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">山东卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225661/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">山西卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://223.110.243.159/PLTV/3/224/3221225576/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">深圳卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225664/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">天津卫视</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://223.110.243.170/PLTV/3/224/3221227212/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>]</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"sourceName": "NewTV</span><span class="s2">频道</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>"playSets": [</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">惊悚嫌疑</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225503/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">金牌综艺</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225504/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">致富农业</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225505/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">军事评论</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225512/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">明星大片</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225513/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">精品纪录</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225514/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">家庭剧场</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225518/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">海外剧场</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225519/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">动作电影</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225523/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">爱情喜剧</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225524/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">军旅剧场</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225529/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">精品剧场</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225530/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">健康有约</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225531/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>},</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"name": "</span><span class="s2">精品大剧</span><span class="s1">",</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">            </span>"playUrl": "http://111.20.33.72/PLTV/88888888/224/3221225533/index.m3u8"</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">          </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">        </span>]</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">      </span>}</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">    </span>]</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>}</span></p>
+<p class="p1"><span class="s1">}</span></p>
+</body>
+</html>
