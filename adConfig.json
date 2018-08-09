@@ -2,9 +2,8 @@
   "resCode": "00000",
   "resMsg":"",
   "data":{
-    "showAd":1,
     "force":0,
-    "showSpotAd":1,
-    "content":""
+    "content":"",
+    "model":0
   }
 }
