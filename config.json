@@ -13,6 +13,9 @@
     "adJs": [".header",".header-nav",".mac_history",".ad-info"],
     "earnScore":"为了播盒的明天，麻烦亲给个五星好评哦~",
     "earnScore2":"马上推荐给亲朋好友，为播盒鼓劲加油！",
-    "playerHeight":"220"
+    "playerHeight":"220",
+    "force":0,
+    "content":"",
+    "model":0
   }
 }
