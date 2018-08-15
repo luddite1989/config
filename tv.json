@@ -4,7 +4,7 @@
   "data": {
     "sources": [
       {
-        "sourceName": "央视频道",
+        "sourceName": "高清频道",
         "playSets": [
           {
             "name": "CCTV-1高清",
@@ -97,12 +97,7 @@
           {
             "name": "CCTV-NEWS",
             "playUrl": "http://ivi.bupt.edu.cn/hls/cctv16.m3u8"
-          }
-        ]
-      },
-      {
-        "sourceName": "卫视高清频道",
-        "playSets": [
+          },
           {
             "name": "北京卫视高清",
             "playUrl": "http://ivi.bupt.edu.cn/hls/btv1hd.m3u8"
