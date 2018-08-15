@@ -216,10 +216,6 @@
             "playUrl": "http://ivi.bupt.edu.cn/hls/sztv.m3u8"
           },
           {
-            "name": "安徽卫视",
-            "playUrl": "http://ivi.bupt.edu.cn/hls/ahtv.m3u8"
-          },
-          {
             "name": "河南卫视",
             "playUrl": "http://ivi.bupt.edu.cn/hls/hntv.m3u8"
           },
