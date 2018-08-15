@@ -28,7 +28,7 @@
           },
           {
             "name": "CCTV 6",
-            "playUrl": "http://223.110.243.140/PLTV/2510088/224/3221227145/1.m3u8"
+            "playUrl": "http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8"
           },
           {
             "name": "CCTV 7",
