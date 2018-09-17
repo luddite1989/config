@@ -20,6 +20,8 @@
     "dialogVersion": 0,
     "dialogTitle": "告示",
     "dialogButton": "知道了",
-    "dialogUrl": ""
+    "dialogUrl": "",
+    "activeTitle":"小说",
+    "activeUrl":"http://c1244.ksjy-cnc.com"
   }
 }
