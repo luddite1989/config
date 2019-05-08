@@ -1,91 +1,38 @@
 {
     "body":{
         "header":{
-            "img":"http://pic15.nipic.com/20110628/1369025_192645024000_2.jpg",
+            "bgImg":"http://pic15.nipic.com/20110628/1369025_192645024000_2.jpg",
             "title":"新房关注排行TOP.20",
-            "time":"上海·2019.04.15-2019.04.21"
+            "period":"上海·2019.04.15-2019.04.21"
         },
         "items":[
             {
-                "name":"小区1",
-                "price":"20000"
+                "houseName": "小区名称1",
+                "plateName": "板块名称1",
+                "districtName": "区域名称1",
+                "rank": 1, 
+                "trend": 1,
+                "quoteCount": "挂牌数量",
+                "quotePrice": "挂牌价格",
             },
-            {
-                "name":"小区2",
-                "price":"20000"
+                        {
+                "houseName": "小区名称2",
+                "plateName": "板块名称2",
+                "districtName": "区域名称2",
+                "rank": 2, 
+                "trend": 0,
+                "quoteCount": "挂牌数量",
+                "quotePrice": "挂牌价格",
             },
-            {
-                "name":"小区3",
-                "price":"20000"
+                        {
+                "houseName": "小区名称3",
+                "plateName": "板块名称3",
+                "districtName": "区域名称3",
+                "rank": 3, 
+                "trend": -1,
+                "quoteCount": "挂牌数量",
+                "quotePrice": "挂牌价格",
             },
-            {
-                "name":"小区4",
-                "price":"20000"
-            },
-            {
-                "name":"小区5",
-                "price":"20000"
-            },
-            {
-                "name":"小区6",
-                "price":"20000"
-            },
-            {
-                "name":"小区7",
-                "price":"20000"
-            },
-            {
-                "name":"小区8",
-                "price":"20000"
-            },
-            {
-                "name":"小区9",
-                "price":"20000"
-            },
-            {
-                "name":"小区10",
-                "price":"20000"
-            },
-            {
-                "name":"小区11",
-                "price":"20000"
-            },
-            {
-                "name":"小区12",
-                "price":"20000"
-            },
-            {
-                "name":"小区13",
-                "price":"20000"
-            },
-            {
-                "name":"小区14",
-                "price":"20000"
-            },
-            {
-                "name":"小区15",
-                "price":"20000"
-            },
-            {
-                "name":"小区16",
-                "price":"20000"
-            },
-            {
-                "name":"小区17",
-                "price":"20000"
-            },
-            {
-                "name":"小区18",
-                "price":"20000"
-            },
-            {
-                "name":"小区19",
-                "price":"20000"
-            },
-            {
-                "name":"小区20",
-                "price":"20000"
-            }
         ],
         "hot":{
             "title":"热门小区排行",
