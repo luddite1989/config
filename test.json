@@ -5,7 +5,30 @@
             "title":"新房关注排行TOP.20",
             "period":"上海·2019.04.15-2019.04.21"
         },
-        "items":[
+        "{
+    "errMsg": String,
+    "body":{
+        "header":{
+          "period":string // 周期
+          "bgImg":string //背景图片
+          "title":string // 标题
+       },
+        "houseList":[
+           {
+                "houseId":int,
+                "houseName":"string" // 小区名称
+                "houseBgImg":"string" // 小区背景图
+                "plateName":string // 板块名称
+                "districtName":"string" //区域名称
+                "rank":"int" // //排名
+                "trend":"int" // 排名趋势, 1:上涨，-1下跌，0 持平
+                "quoteCount":"string" // 挂牌数量
+                "quotePrice":"string" // 挂牌价格
+           }
+       ],.....
+   },
+    "resultCode": int
+}":[
             {
                 "houseName": "小区名称1",
                 "plateName": "板块名称1",
