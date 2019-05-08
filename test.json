@@ -35,7 +35,7 @@
                 "trend": -1,
                 "quoteCount": "挂牌数量",
                 "quotePrice": "挂牌价格",
-            },
+            }
         ],
         "hot":{
             "title":"热门小区排行",
