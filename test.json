@@ -100,7 +100,7 @@
                 "name": "小区名称s2",
                 "lab":"lab",
                 "rate": -44.5,
-                "unit": "单位(参考价:元/㎡,....)"
+                "unit": "单位(参考价:元/㎡,....)",
                 "roomCount": 1,
                 "livingRoomCount": null,
                 "bathroomCount": 8,
