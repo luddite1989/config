@@ -25,7 +25,12 @@
                 "stockCount": 5000,
                 "stockRate": 66.66,
                 "cityId": 21,
-                "plateId": 3358
+                "plateId": 3358,
+                "url": "http://pic15.nipic.com/20110628/1369025_192645024000_2.jpg",
+                "name": "小区名称s1",
+                "lab":"lab",
+                "rate": 44.5,
+                "unit": "单位(参考价:元/㎡,....)"
             },
                         {
                 "houseName": "小区名称2",
@@ -45,7 +50,12 @@
                 "stockCount": 5000,
                 "stockRate": 0,
                 "cityId": 21,
-                "plateId": 3358
+                "plateId": 3358,
+                "url": "http://pic15.nipic.com/20110628/1369025_192645024000_2.jpg",
+                "name": "小区名称s2",
+                "lab":"lab",
+                "rate": 0,
+                "unit": "单位(参考价:元/㎡,....)"
             },
                         {
                 "houseName": "小区名称3",
@@ -65,7 +75,12 @@
                 "stockCount": 5000,
                 "stockRate": -66.66,
                 "cityId": 21,
-                "plateId": 3358
+                "plateId": 3358,
+                "url": "http://pic15.nipic.com/20110628/1369025_192645024000_2.jpg",
+                "name": "小区名称s2",
+                "lab":"lab",
+                "rate": -44.5,
+                "unit": "单位(参考价:元/㎡,....)"
             }
         ],
         "hot":{
