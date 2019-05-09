@@ -36,11 +36,11 @@
                 "bathroomCount": 3,
                 "area": 125,
                 "listedDay": 10,
-                "totalProceMillion": 2000,
+                "totalPriceMillion": 2000,
                 "avgPrice":60000.80,
                 "picList":["http://pic15.nipic.com/20110628/1369025_192645024000_2.jpg"],
                 "listedOrgCount": 444,
-                "evaliationPrice": 8000
+                "evaluationPrice": 8000
             },
                         {
                 "houseName": "小区名称2",
@@ -71,11 +71,11 @@
                 "bathroomCount": null,
                 "area": 125,
                 "listedDay": 10,
-                "totalProceMillion": 2000,
+                "totalPriceMillion": 2000,
                 "avgPrice":60000.80,
                 "picList":[],
                 "listedOrgCount": 444,
-                "evaliationPrice": null
+                "evaluationPrice": null
             },
                         {
                 "houseName": "小区名称3",
@@ -106,11 +106,11 @@
                 "bathroomCount": 8,
                 "area": 125,
                 "listedDay": 10,
-                "totalProceMillion": 2000,
+                "totalPriceMillion": 2000,
                 "avgPrice":60000.00,
                 "picList":null,
                 "listedOrgCount": 444,
-                "evaliationPrice": null
+                "evaluationPrice": null
             }
         ],
         "hot":{
