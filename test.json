@@ -30,7 +30,17 @@
                 "name": "小区名称s1",
                 "lab":"lab",
                 "rate": 44.5,
-                "unit": "单位(参考价:元/㎡,....)"
+                "unit": "单位(参考价:元/㎡,....)",
+                "roomCount": 1,
+                "livingRoomCount": 2,
+                "bathroomCount": 3,
+                "area": 125,
+                "listedDay": 10,
+                "totalProceMillion": 2000,
+                "avgPrice":60000.80,
+                "picList":["http://pic15.nipic.com/20110628/1369025_192645024000_2.jpg"],
+                "listedOrgCount": 444,
+                "evaliationPrice": 8000
             },
                         {
                 "houseName": "小区名称2",
@@ -55,7 +65,17 @@
                 "name": "小区名称s2",
                 "lab":"lab",
                 "rate": 0,
-                "unit": "单位(参考价:元/㎡,....)"
+                "unit": "单位(参考价:元/㎡,....)",
+                "roomCount": 1,
+                "livingRoomCount": 2,
+                "bathroomCount": null,
+                "area": 125,
+                "listedDay": 10,
+                "totalProceMillion": 2000,
+                "avgPrice":60000.80,
+                "picList":[],
+                "listedOrgCount": 444,
+                "evaliationPrice": null
             },
                         {
                 "houseName": "小区名称3",
@@ -81,6 +101,16 @@
                 "lab":"lab",
                 "rate": -44.5,
                 "unit": "单位(参考价:元/㎡,....)"
+                "roomCount": 1,
+                "livingRoomCount": null,
+                "bathroomCount": 8,
+                "area": 125,
+                "listedDay": 10,
+                "totalProceMillion": 2000,
+                "avgPrice":60000.00,
+                "picList":null,
+                "listedOrgCount": 444,
+                "evaliationPrice": null
             }
         ],
         "hot":{
