@@ -1,0 +1,42 @@
+{
+    "body":{
+      "list":[
+        {
+          "cityName": "上海", 
+          "rankName": "上海二手房成交排行榜", 
+          "bgImg": "http://pic15.nipic.com/20110628/1369025_192645024000_2.jpg", 
+          "clickUrl": "https://m.haidu.com"
+        },
+                {
+          "cityName": "上海", 
+          "rankName": "上海二手房成交排行榜", 
+          "bgImg": "http://pic15.nipic.com/20110628/1369025_192645024000_2.jpg", 
+          "clickUrl": "https://m.haidu.com"
+        },
+                {
+          "cityName": "上海", 
+          "rankName": "上海二手房成交排行榜", 
+          "bgImg": "http://pic15.nipic.com/20110628/1369025_192645024000_2.jpg", 
+          "clickUrl": "https://m.haidu.com"
+        },
+                {
+          "cityName": "上海", 
+          "rankName": "上海二手房成交排行榜", 
+          "bgImg": "http://pic15.nipic.com/20110628/1369025_192645024000_2.jpg", 
+          "clickUrl": "https://m.haidu.com"
+        },        {
+          "cityName": "上海", 
+          "rankName": "上海二手房成交排行榜", 
+          "bgImg": "http://pic15.nipic.com/20110628/1369025_192645024000_2.jpg", 
+          "clickUrl": "https://m.haidu.com"
+        },        {
+          "cityName": "上海", 
+          "rankName": "上海二手房成交排行榜", 
+          "bgImg": "http://pic15.nipic.com/20110628/1369025_192645024000_2.jpg", 
+          "clickUrl": "https://m.haidu.com"
+        }
+      ]
+    },
+    "resultCode":0,
+    "errMsg":""
+}
