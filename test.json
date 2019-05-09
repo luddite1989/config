@@ -15,7 +15,17 @@
                 "rank": 1, 
                 "trend": 1,
                 "quoteCount": "挂牌数量",
-                "quotePrice": "挂牌价格"
+                "quotePrice": "挂牌价格",
+                "ranking": 1,
+                "month": 3,
+                "price": 3000,
+                "priceRate": 3.5,
+                "dealCount": 4000,
+                "dealRate": 44.5,
+                "stockCount": 5000,
+                "stockRate": 66.66,
+                "cityId": 21,
+                "plateId": 3358
             },
                         {
                 "houseName": "小区名称2",
@@ -25,7 +35,17 @@
                 "rank": 2, 
                 "trend": 0,
                 "quoteCount": "挂牌数量",
-                "quotePrice": "挂牌价格"
+                "quotePrice": "挂牌价格",                
+                "ranking": 2,
+                "month": 3,
+                "price": 3000,
+                "priceRate": 0,
+                "dealCount": 4000,
+                "dealRate": 0,
+                "stockCount": 5000,
+                "stockRate": 0,
+                "cityId": 21,
+                "plateId": 3358
             },
                         {
                 "houseName": "小区名称3",
@@ -35,7 +55,17 @@
                 "rank": 3, 
                 "trend": -1,
                 "quoteCount": "挂牌数量",
-                "quotePrice": "挂牌价格"
+                "quotePrice": "挂牌价格",
+                "ranking": 3,
+                "month": 3,
+                "price": 3000,
+                "priceRate": -3.5,
+                "dealCount": 4000,
+                "dealRate": -44.5,
+                "stockCount": 5000,
+                "stockRate": -66.66,
+                "cityId": 21,
+                "plateId": 3358
             }
         ],
         "hot":{
