@@ -1,6 +1,6 @@
 {
-  "resCode": "00000",
-  "resMsg":"",
+  "code": "00000",
+  "msg":"",
   "data":{
     "baseUrl":"http://101.132.44.11:8080",
     "download":"https://fir.im/abird",
