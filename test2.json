@@ -1,42 +1,604 @@
 {
-    "body":{
-      "list":[
+  "resCode": "000000",
+  "resMsg": "ok",
+  "data": [
+    {
+      "type": 1,
+      "title": "banner",
+      "movies": [
         {
-          "cityName": "上海", 
-          "rankName": "二手房小区关注排行", 
-          "bgImg": "http://pic15.nipic.com/20110628/1369025_192645024000_2.jpg", 
-          "clickUrl": "https://m.haidu.com"
+          "id": "200001",
+          "title": "以家人之名",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-08/1597065720.jpg",
+          "status": "更新至38集",
+          "type": "国产剧",
+          "year": "2020",
+          "players": [
+            "谭松韵",
+            "宋威龙",
+            "张新成",
+            "孙铱",
+            "何瑞贤",
+            "安戈"
+          ],
+          "directors": "丁梓光 "
         },
-                {
-          "cityName": "上海", 
-          "rankName": "上海二手房成交排行榜", 
-          "bgImg": "http://pic15.nipic.com/20110628/1369025_192645024000_2.jpg", 
-          "clickUrl": "https://m.haidu.com"
+        {
+          "id": "200002",
+          "title": "旗袍美探",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-08/1598615391.jpg",
+          "status": "更新至12集",
+          "type": "国产剧",
+          "year": "2020",
+          "players": [
+            "马伊琍",
+            "高伟光",
+            "董璇",
+            "卜冠今"
+          ],
+          "directors": "邓科"
         },
-                {
-          "cityName": "上海", 
-          "rankName": "上海二手房成交排行榜", 
-          "bgImg": "http://pic15.nipic.com/20110628/1369025_192645024000_2.jpg", 
-          "clickUrl": "https://m.haidu.com"
+        {
+          "id": "200003",
+          "title": "我在时间尽头等你",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-08/1598668626.jpg",
+          "status": "TC",
+          "type": "爱情片",
+          "year": "2020",
+          "players": [
+            "李鸿其",
+            "李一桐",
+            "范伟",
+            "张超",
+            "罗辑",
+            "郭欣禹"
+          ],
+          "directors": "姚婷婷"
         },
-                {
-          "cityName": "上海", 
-          "rankName": "上海二手房成交排行榜", 
-          "bgImg": "http://pic15.nipic.com/20110628/1369025_192645024000_2.jpg", 
-          "clickUrl": "https://m.haidu.com"
-        },        {
-          "cityName": "上海", 
-          "rankName": "上海二手房成交排行榜", 
-          "bgImg": "http://pic15.nipic.com/20110628/1369025_192645024000_2.jpg", 
-          "clickUrl": "https://m.haidu.com"
-        },        {
-          "cityName": "上海", 
-          "rankName": "上海二手房成交排行榜", 
-          "bgImg": "http://pic15.nipic.com/20110628/1369025_192645024000_2.jpg", 
-          "clickUrl": "https://m.haidu.com"
+        {
+          "id": "200004",
+          "title": "琉璃",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-08/1596717386.jpg",
+          "status": "更新至44集",
+          "type": "国产剧",
+          "year": "2020",
+          "players": [
+            "袁冰妍",
+            "成毅",
+            "刘学义",
+            "张予曦",
+            "白澍",
+            "李俊逸",
+            "周峻纬",
+            "侯梦瑶",
+            "傅方俊",
+            "杨肸子",
+            "何中华",
+            "韩承羽",
+            "朱梓"
+          ],
+          "directors": "姚婷婷"
+        },
+        {
+          "id": "200005",
+          "title": "釜山行2：半岛",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-07/1595155436.jpg",
+          "status": "HD",
+          "type": "动作片",
+          "year": "2020",
+          "players": [
+            "姜栋元",
+            "李贞贤",
+            "权海骁",
+            "李来",
+            "金敏载",
+            "具教焕",
+            "金度允",
+            "李艺媛"
+          ],
+          "directors": "延尚昊"
+        },
+        {
+          "id": "200006",
+          "title": "八佰",
+          "logo": "https://rpg.pic-imges.com/pic/upload/vod/2020-08/202008201597896356.jpg",
+          "status": "HC",
+          "type": "战争片",
+          "year": "2020",
+          "players": [
+            "王千源",
+            "张译",
+            "姜武",
+            "黄志忠",
+            "张俊一",
+            "欧豪",
+            "杜淳",
+            "魏晨",
+            "张宥浩",
+            "唐艺昕",
+            "李九霄",
+            "李晨",
+            "梁静",
+            "侯勇",
+            "辛柏"
+          ],
+          "directors": "管虎"
         }
       ]
     },
-    "resultCode":0,
-    "errMsg":""
+    {
+      "type": 2,
+      "title": "电影",
+      "movies": [
+        {
+          "id": "200001",
+          "title": "英式情爱守则",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-09/1598891056.jpg",
+          "status": "HD",
+          "type": "喜剧片",
+          "year": "2014",
+          "players": [
+            "谭松韵",
+            "宋威龙",
+            "张新成",
+            "孙铱",
+            "何瑞贤",
+            "安戈"
+          ],
+          "directors": "丁梓光 "
+        },
+        {
+          "id": "200002",
+          "title": "危险游戏2010",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-09/1598890878.jpg",
+          "status": "HD",
+          "type": "剧情片",
+          "year": "2010",
+          "players": [
+            "马伊琍",
+            "高伟光",
+            "董璇",
+            "卜冠今"
+          ],
+          "directors": "邓科"
+        },
+        {
+          "id": "200003",
+          "title": "喜马拉雅天梯2015",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-09/1598890939.jpg",
+          "status": "HD",
+          "type": "纪录片",
+          "year": "2015",
+          "players": [
+            "李鸿其",
+            "李一桐",
+            "范伟",
+            "张超",
+            "罗辑",
+            "郭欣禹"
+          ],
+          "directors": "姚婷婷"
+        },
+        {
+          "id": "200004",
+          "title": "杨善洲",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-09/1598890993.jpg",
+          "status": "HD",
+          "type": "剧情片",
+          "year": "2011",
+          "players": [
+            "袁冰妍",
+            "成毅",
+            "刘学义",
+            "张予曦",
+            "白澍",
+            "李俊逸",
+            "周峻纬",
+            "侯梦瑶",
+            "傅方俊",
+            "杨肸子",
+            "何中华",
+            "韩承羽",
+            "朱梓"
+          ],
+          "directors": "姚婷婷"
+        },
+        {
+          "id": "200005",
+          "title": "秘境里斯本",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-09/1598890701.jpg",
+          "status": "HD",
+          "type": "剧情片",
+          "year": "2010",
+          "players": [
+            "姜栋元",
+            "李贞贤",
+            "权海骁",
+            "李来",
+            "金敏载",
+            "具教焕",
+            "金度允",
+            "李艺媛"
+          ],
+          "directors": "延尚昊"
+        },
+        {
+          "id": "200006",
+          "title": "民国警花",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-09/1598890785.jpg",
+          "status": "HD",
+          "type": "剧情片",
+          "year": "2012",
+          "players": [
+            "王千源",
+            "张译",
+            "姜武",
+            "黄志忠",
+            "张俊一",
+            "欧豪",
+            "杜淳",
+            "魏晨",
+            "张宥浩",
+            "唐艺昕",
+            "李九霄",
+            "李晨",
+            "梁静",
+            "侯勇",
+            "辛柏"
+          ],
+          "directors": "管虎"
+        }
+      ]
+    },{
+      "type": 2,
+      "title": "综艺",
+      "movies": [
+        {
+          "id": "200001",
+          "title": "新生日记第二季",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-08/1598392490.jpg",
+          "status": "更新至20200902",
+          "type": "内地综",
+          "year": "2020",
+          "players": [
+            "谭松韵",
+            "宋威龙",
+            "张新成",
+            "孙铱",
+            "何瑞贤",
+            "安戈"
+          ],
+          "directors": ""
+        },
+        {
+          "id": "200002",
+          "title": "乘风破浪的妻子",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-07/1594189159.jpg",
+          "status": "更新至20200902",
+          "type": "内地综",
+          "year": "2020",
+          "players": [
+            "马伊琍",
+            "高伟光",
+            "董璇",
+            "卜冠今"
+          ],
+          "directors": "邓科"
+        },
+        {
+          "id": "200003",
+          "title": "密室大逃脱第二季",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-06/1593109781.jpg",
+          "status": "更新至20200902",
+          "type": "内地综",
+          "year": "2020",
+          "players": [
+            "李鸿其",
+            "李一桐",
+            "范伟",
+            "张超",
+            "罗辑",
+            "郭欣禹"
+          ],
+          "directors": "姚婷婷"
+        },
+        {
+          "id": "200004",
+          "title": "百家讲坛2020",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-05/202005161589613729.jpg",
+          "status": "更新至02000902",
+          "type": "内地综",
+          "year": "2020",
+          "players": [
+            "袁冰妍",
+            "成毅",
+            "刘学义",
+            "张予曦",
+            "白澍",
+            "李俊逸",
+            "周峻纬",
+            "侯梦瑶",
+            "傅方俊",
+            "杨肸子",
+            "何中华",
+            "韩承羽",
+            "朱梓"
+          ],
+          "directors": "姚婷婷"
+        },
+        {
+          "id": "200005",
+          "title": "一站到底",
+          "logo": "http://www.kk2w1.com/upload/vod/2019-07-02/15620490272.jpg",
+          "status": "更新至20200831",
+          "type": "内地综",
+          "year": "2017",
+          "players": [
+            "姜栋元",
+            "李贞贤",
+            "权海骁",
+            "李来",
+            "金敏载",
+            "具教焕",
+            "金度允",
+            "李艺媛"
+          ],
+          "directors": "延尚昊"
+        },
+        {
+          "id": "200006",
+          "title": "一起火锅吧",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-07/1595858552.jpg",
+          "status": "更新至20200831",
+          "type": "内地综",
+          "year": "2020",
+          "players": [
+            "王千源",
+            "张译",
+            "姜武",
+            "黄志忠",
+            "张俊一",
+            "欧豪",
+            "杜淳",
+            "魏晨",
+            "张宥浩",
+            "唐艺昕",
+            "李九霄",
+            "李晨",
+            "梁静",
+            "侯勇",
+            "辛柏"
+          ],
+          "directors": "管虎"
+        }
+      ]
+    },{
+      "type": 2,
+      "title": "电视剧",
+      "movies": [
+        {
+          "id": "200001",
+          "title": "G小调进行曲",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-08/1598332861.jpg",
+          "status": "更新至18集",
+          "type": "国产剧",
+          "year": "2020",
+          "players": [
+            "谭松韵",
+            "宋威龙",
+            "张新成",
+            "孙铱",
+            "何瑞贤",
+            "安戈"
+          ],
+          "directors": "丁梓光 "
+        },
+        {
+          "id": "200002",
+          "title": "神探斯特莱克第三季",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-09/1599002993.jpg",
+          "status": "更新至01集",
+          "type": "欧美剧",
+          "year": "2020",
+          "players": [
+            "马伊琍",
+            "高伟光",
+            "董璇",
+            "卜冠今"
+          ],
+          "directors": "邓科"
+        },
+        {
+          "id": "200003",
+          "title": "跨越结界的爱",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-08/1598628190.jpg",
+          "status": "更新至03集",
+          "type": "欧美剧",
+          "year": "2020",
+          "players": [
+            "李鸿其",
+            "李一桐",
+            "范伟",
+            "张超",
+            "罗辑",
+            "郭欣禹"
+          ],
+          "directors": "姚婷婷"
+        },
+        {
+          "id": "200004",
+          "title": "恶魔之地",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-08/1597661811.jpg",
+          "status": "更新至03集",
+          "type": "欧美剧",
+          "year": "2020",
+          "players": [
+            "袁冰妍",
+            "成毅",
+            "刘学义",
+            "张予曦",
+            "白澍",
+            "李俊逸",
+            "周峻纬",
+            "侯梦瑶",
+            "傅方俊",
+            "杨肸子",
+            "何中华",
+            "韩承羽",
+            "朱梓"
+          ],
+          "directors": "姚婷婷"
+        },
+        {
+          "id": "200005",
+          "title": "牧师神探第五季",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-08/1598627065.jpg",
+          "status": "更新至03集",
+          "type": "欧美剧",
+          "year": "2020",
+          "players": [
+            "姜栋元",
+            "李贞贤",
+            "权海骁",
+            "李来",
+            "金敏载",
+            "具教焕",
+            "金度允",
+            "李艺媛"
+          ],
+          "directors": "延尚昊"
+        },
+        {
+          "id": "200006",
+          "title": "多元一家人/合家闹翻天",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-07/1594920349.jpg",
+          "status": "更新至08集",
+          "type": "欧美剧",
+          "year": "2020",
+          "players": [
+            "王千源",
+            "张译",
+            "姜武",
+            "黄志忠",
+            "张俊一",
+            "欧豪",
+            "杜淳",
+            "魏晨",
+            "张宥浩",
+            "唐艺昕",
+            "李九霄",
+            "李晨",
+            "梁静",
+            "侯勇",
+            "辛柏"
+          ],
+          "directors": "管虎"
+        }
+      ]
+    },{
+      "type": 2,
+      "title": "动漫",
+      "movies": [
+        {
+          "id": "200001",
+          "title": "鸭子的天空",
+          "logo": "https://rpg.pic-imges.com/pic/upload/vod/2019-10/15700190250.jpg",
+          "status": "更新至46集",
+          "type": "日韩动",
+          "year": "2019",
+          "players": [
+            "谭松韵",
+            "宋威龙",
+            "张新成",
+            "孙铱",
+            "何瑞贤",
+            "安戈"
+          ],
+          "directors": "丁梓光 "
+        },
+        {
+          "id": "200002",
+          "title": "职场小烈第二季",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-09/1599039070.jpg",
+          "status": "完结",
+          "type": "日韩动",
+          "year": "2019",
+          "players": [
+            "马伊琍",
+            "高伟光",
+            "董璇",
+            "卜冠今"
+          ],
+          "directors": "邓科"
+        },
+        {
+          "id": "200003",
+          "title": "我原来是个病娇",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-08/1598628190.jpg",
+          "status": "更新至19集",
+          "type": "国产动",
+          "year": "2020",
+          "players": [
+
+          ],
+          "directors": null
+        },
+        {
+          "id": "200004",
+          "title": "卜存哉",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-07/1595476146.jpg",
+          "status": "更新至37集",
+          "type": "国产动",
+          "year": "2020",
+          "players": null,
+          "directors": "姚婷婷"
+        },
+        {
+          "id": "200005",
+          "title": "獭獭突然想到",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-07/1595776789.jpg",
+          "status": "更新至09集",
+          "type": "国产动",
+          "year": "2020",
+          "players": [
+            "姜栋元",
+            "李贞贤",
+            "权海骁",
+            "李来",
+            "金敏载",
+            "具教焕",
+            "金度允",
+            "李艺媛"
+          ],
+          "directors": "延尚昊"
+        },
+        {
+          "id": "200006",
+          "title": "风姿物语第二季",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-07/202007011593578260.jpg",
+          "status": "更新至19集",
+          "type": "国产动",
+          "year": "2020",
+          "players": [
+            "王千源",
+            "张译",
+            "姜武",
+            "黄志忠",
+            "张俊一",
+            "欧豪",
+            "杜淳",
+            "魏晨",
+            "张宥浩",
+            "唐艺昕",
+            "李九霄",
+            "李晨",
+            "梁静",
+            "侯勇",
+            "辛柏"
+          ],
+          "directors": "管虎"
+        }
+      ]
+    }
+  ]
 }
