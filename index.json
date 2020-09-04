@@ -17,6 +17,126 @@
       "何瑞贤",
       "安戈"
     ],
-    "directors": "丁梓光 "
+    "directors": "丁梓光 ",
+    "recommends": [
+        {
+          "id": "200001",
+          "title": "以家人之名",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-08/1597065720.jpg",
+          "status": "更新至38集",
+          "type": "国产剧",
+          "year": "2020",
+          "players": [
+            "谭松韵",
+            "宋威龙",
+            "张新成",
+            "孙铱",
+            "何瑞贤",
+            "安戈"
+          ],
+          "directors": "丁梓光 "
+        },
+        {
+          "id": "200002",
+          "title": "旗袍美探",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-08/1598615391.jpg",
+          "status": "更新至12集",
+          "type": "国产剧",
+          "year": "2020",
+          "players": [
+            "马伊琍",
+            "高伟光",
+            "董璇",
+            "卜冠今"
+          ],
+          "directors": "邓科"
+        },
+        {
+          "id": "200003",
+          "title": "我在时间尽头等你",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-08/1598668626.jpg",
+          "status": "TC",
+          "type": "爱情片",
+          "year": "2020",
+          "players": [
+            "李鸿其",
+            "李一桐",
+            "范伟",
+            "张超",
+            "罗辑",
+            "郭欣禹"
+          ],
+          "directors": "姚婷婷"
+        },
+        {
+          "id": "200004",
+          "title": "琉璃",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-08/1596717386.jpg",
+          "status": "更新至44集",
+          "type": "国产剧",
+          "year": "2020",
+          "players": [
+            "袁冰妍",
+            "成毅",
+            "刘学义",
+            "张予曦",
+            "白澍",
+            "李俊逸",
+            "周峻纬",
+            "侯梦瑶",
+            "傅方俊",
+            "杨肸子",
+            "何中华",
+            "韩承羽",
+            "朱梓"
+          ],
+          "directors": "姚婷婷"
+        },
+        {
+          "id": "200005",
+          "title": "釜山行2：半岛",
+          "logo": "https://images.cnblogsc.com/pic/upload/vod/2020-07/1595155436.jpg",
+          "status": "HD",
+          "type": "动作片",
+          "year": "2020",
+          "players": [
+            "姜栋元",
+            "李贞贤",
+            "权海骁",
+            "李来",
+            "金敏载",
+            "具教焕",
+            "金度允",
+            "李艺媛"
+          ],
+          "directors": "延尚昊"
+        },
+        {
+          "id": "200006",
+          "title": "八佰",
+          "logo": "https://rpg.pic-imges.com/pic/upload/vod/2020-08/202008201597896356.jpg",
+          "status": "HC",
+          "type": "战争片",
+          "year": "2020",
+          "players": [
+            "王千源",
+            "张译",
+            "姜武",
+            "黄志忠",
+            "张俊一",
+            "欧豪",
+            "杜淳",
+            "魏晨",
+            "张宥浩",
+            "唐艺昕",
+            "李九霄",
+            "李晨",
+            "梁静",
+            "侯勇",
+            "辛柏"
+          ],
+          "directors": "管虎"
+        }
+      ]
   }
 }
