@@ -17,6 +17,53 @@
       "何瑞贤",
       "安戈"
     ],
+  "sources": [
+    {
+      "sourceName": "",
+      "playSets": [
+        {
+          "name": "第01集",
+          "playUrl": "http://okzy.xzokzyzy.com/20200810/13776_98948e7f/以家人之名01.mp4"
+        },
+        {
+          "name": "第02集",
+          "playUrl": "http://okzy.xzokzyzy.com/20200810/13780_66f74fe5/以家人之名第2集.mp4"
+        },
+        {
+          "name": "第03集",
+          "playUrl": "http://okzy.xzokzyzy.com/20200811/13823_258b139c/以家人之名03.mp4"
+        },
+        {
+          "name": "第04集",
+          "playUrl": "http://okzy.xzokzyzy.com/20200811/13826_e2f36aea/以家人之名04.mp4"
+        },
+        {
+          "name": "第05集",
+          "playUrl": "http://okzy.xzokzyzy.com/20200812/13909_f91a1839/以家人之名第5集.mp4"
+        },
+        {
+          "name": "第06集",
+          "playUrl": "http://okzy.xzokzyzy.com/20200812/13910_73bb7c4e/以家人之名第6集.mp4"
+        },
+        {
+          "name": "第07集",
+          "playUrl": "http://okzy.xzokzyzy.com/20200813/13940_a9ee9990/以家人之名07.mp4"
+        },
+        {
+          "name": "第08集",
+          "playUrl": "http://okzy.xzokzyzy.com/20200813/13943_00f15e2b/以家人之名08.mp4"
+        },
+        {
+          "name": "第09集",
+          "playUrl": "http://okzy.xzokzyzy.com/20200814/13978_477fab5f/以家人之名09.mp4"
+        },
+        {
+          "name": "第10集",
+          "playUrl": "http://okzy.xzokzyzy.com/20200815/14048_76cd4d0b/以家人之名10.mp4"
+        }
+      ]
+    }
+  ],
     "directors": "丁梓光 ",
     "recommends": [
         {
