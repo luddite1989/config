@@ -2,9 +2,9 @@
   "code": 0,
   "msg":"",
   "data":{
-    "version": 1,
-    "content": "",
-    "versionName": "",
+    "version": 2,
+    "content": "Please Update the new version",
+    "versionName": "1.2",
     "force": false,
     "des": "",
     "emailDomains": [
