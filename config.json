@@ -3,6 +3,8 @@
   "msg":"",
   "data":{
     version: 1,
+    content: "",
+    versionName: "",
     force: false,
     des: "",
     emailDomains: [
