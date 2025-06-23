@@ -4,6 +4,7 @@
   "data":{
     version: 1,
     force: false,
+    des: "",
     emailDomains: [
       "nqmo.com",
       "qabq.com",
