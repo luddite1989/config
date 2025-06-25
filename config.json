@@ -2,11 +2,11 @@
   "code": 0,
   "msg":"",
   "data":{
-    "version": 2,
+    "version": 1,
     "content": "Please Update the new version",
     "versionName": "1.2",
     "force": false,
-    "des": "dd",
+    "des": "",
     "emailDomains": [
       "nqmo.com",
       "qabq.com",
