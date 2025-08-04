@@ -3,8 +3,8 @@
   "msg":"",
   "data":{
     "version": 1,
-    "content": "Please Update the new version",
-    "versionName": "1.2",
+    "content": "Fixed some bugs, please update to the latest version",
+    "versionName": "1.8",
     "force": false,
     "des": "",
     "emailDomains": [
