@@ -14,6 +14,17 @@
       "uuf.me",
       "6n9.net"
     ],
+    "emailDomainsPlus": [
+      "mailto.plus",
+      "fexpost.com",
+      "fexbox.org",
+      "mailbox.in.ua",
+      "rover.info",
+      "chitthi.in",
+      "fextemp.com",
+      "any.pink",
+      "merepost.com"
+    ],
     "disableMain": false
   }
 }
