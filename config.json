@@ -26,6 +26,8 @@
       "merepost.com"
     ],
     "showFilesVersion": 1,
+    "showEmailDomainsVersion": 0,
+    "showEmailDomainsPlusVersion": 0,
     "disableMain": false
   }
 }
