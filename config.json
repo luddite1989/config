@@ -27,7 +27,7 @@
     ],
     "showFilesVersion": 1,
     "showEmailDomainsVersion": 1,
-    "showEmailDomainsPlusVersion": 0,
+    "showEmailDomainsPlusVersion": 1,
     "disableMain": false
   }
 }
