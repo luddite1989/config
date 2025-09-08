@@ -2,9 +2,9 @@
   "code": 0,
   "msg":"",
   "data":{
-    "version": 16,
+    "version": 17,
     "content": "Fixed some bugs, please update to the latest version",
-    "versionName": "2.2",
+    "versionName": "2.3",
     "force": false,
     "des": "",
     "emailDomains": [
