@@ -28,6 +28,7 @@
     "showFilesVersion": 1,
     "showEmailDomainsVersion": 1,
     "showEmailDomainsPlusVersion": 1,
-    "disableMain": false
+    "disableMain": false,
+    "adTime": 1
   }
 }
