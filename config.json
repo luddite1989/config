@@ -25,6 +25,17 @@
       "any.pink",
       "merepost.com"
     ],
+    "skus": [
+      {"id": "1001",
+        "title": "1 Month"
+      },
+      {"id": "1002",
+        "title": "3 Month"
+      },
+      {"id": "1003",
+        "title": "12 Month"
+      }
+    ],
     "showFilesVersion": 1,
     "showEmailDomainsVersion": 1,
     "showEmailDomainsPlusVersion": 1,
