@@ -41,7 +41,7 @@
     ],
     "smsHeaders": [
       {
-        "key": "Referer",
+        "key": "referer",
         "value": "https://lubansms.com/receiveSms"
       }
     ],
