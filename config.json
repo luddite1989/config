@@ -26,14 +26,23 @@
       "merepost.com"
     ],
     "skus": [
-      {"id": "1001",
+      {
+        "id": "1001",
         "title": "1 Month"
       },
-      {"id": "1002",
+      {
+        "id": "1002",
         "title": "3 Month"
       },
-      {"id": "1003",
+      {
+        "id": "1003",
         "title": "12 Month"
+      }
+    ],
+    "smsHeaders": [
+      {
+        "key": "Referer",
+        "value": "https://lubansms.com/receiveSms"
       }
     ],
     "showFilesVersion": 1,
