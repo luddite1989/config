@@ -45,7 +45,7 @@
         "value": "https://lubansms.com/receiveSms"
       }
     ],
-    "showFilesVersion": 1,
+    "showFilesVersion": 100,
     "showEmailDomainsVersion": 1,
     "showEmailDomainsPlusVersion": 1,
     "disableMain": false,
