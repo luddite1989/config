@@ -15,18 +15,15 @@
       "6n9.net"
     ],    
     "emailDomainsPlus": [
-      "bltiwd.com",
-      "daouse.com",
-      "illubd.com",
-      "mkzaso.com",
-      "mrotzis.com",
-      "xkxkud.com",
-      "wnbaldwy.com",
-      "bwmyga.com",
-      "ozsaip.com",
-      "yzcalo.com",
-      "lnovic.com", 
-      "ruutukf.com"
+      "mailto.plus",
+      "fexpost.com",
+      "fexbox.org",
+      "mailbox.in.ua",
+      "rover.info",
+      "chitthi.in",
+      "fextemp.com",
+      "any.pink",
+      "merepost.com"
     ],
     "skus": [
       {
@@ -50,7 +47,7 @@
     ],
     "showFilesVersion": 1,
     "showEmailDomainsVersion": 1,
-    "showEmailDomainsPlusVersion": 33,
+    "showEmailDomainsPlusVersion": 35,
     "disableMain": false,
     "adTime": 1
   }
