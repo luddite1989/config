@@ -37,8 +37,8 @@
       }
     ],
     "showFilesVersion": 1,
-    "showEmailDomainsVersion": 1,
-    "showEmailDomainsPlusVersion": 35,
+    "showEmailDomainsVersion": 41,
+    "showEmailDomainsPlusVersion": 1,
     "disableMain": false,
     "adTime": 1
   }
