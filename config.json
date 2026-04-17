@@ -45,6 +45,7 @@
           "initEnergy": 10,
           "adEnergy": 3,
           "nextEnergy": 5,
+          "downloadUrl": "https://play.google.com/store/apps/details?id=com.cw.tempmail",
           "gameData":[
             {
                 "name": "car",
